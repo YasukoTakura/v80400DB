@@ -97,7 +97,16 @@
   },
   {
     "ModuleName": "PCPage/ページ1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2024-04-26T13:12:45.1076825+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\ページ1.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
@@ -174,17 +183,6 @@
       "Tables\\テーブル1.json",
       "ForguncyDB.sqlite3"
     ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/親",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2024-04-26T12:02:11.78857+09:00",
-    "ModuleType": 7,
     "ExclusiveType": 0
   }
 ]
