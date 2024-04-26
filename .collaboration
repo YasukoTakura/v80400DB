@@ -1,7 +1,16 @@
 [
   {
     "ModuleName": "Table/親",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2024-04-26T11:56:31.9907652+09:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\親.json"
+    ]
   },
   {
     "ModuleName": "Pages/ビルトイン ページ",
@@ -101,7 +110,16 @@
   },
   {
     "ModuleName": "PCPage/ページ1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2024-04-26T11:56:32.0157673+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\ページ1.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
